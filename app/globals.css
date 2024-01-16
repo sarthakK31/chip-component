@@ -25,3 +25,17 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+input{
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-start-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+/* Add this CSS to your styles */
+.chip:focus {
+  outline: 2px solid blue; /* Example: Highlight focused chips with a blue outline */
+}
