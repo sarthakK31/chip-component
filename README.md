@@ -1,4 +1,3 @@
-This is a preview of the Chip-component in a GIF.
 ![](https://github.com/sarthakK31/chip-component/blob/master/ezgif-2-263a379064.gif)
 
 
