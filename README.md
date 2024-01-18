@@ -1,3 +1,7 @@
+This is a preview of the Chip-component in a GIF.
+![](https://github.com/sarthakK31/chip-component/blob/master/ezgif-2-263a379064.gif)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
